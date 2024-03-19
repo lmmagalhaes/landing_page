@@ -40,50 +40,50 @@
   .second-block-container {
     width: 100%;
   }
-  .third-block-container{
+  .third-block-container {
     margin-top: 70px;
   }
-  .floating-spans{
+  .floating-spans {
     width: 70%;
   }
 }
 
 @media (max-width: 768px) {
-  .inside-block-from-thrid-section-block-2{
+  .inside-block-from-thrid-section-block-2 {
     height: auto;
     padding-bottom: 25px;
   }
-  .thrid-section{
+  .thrid-section {
     flex-direction: column;
   }
-  .second-block-container{
+  .second-block-container {
     margin-left: 0;
     margin: 0 auto;
     padding: 15px;
     width: 325px;
   }
-  .second-text-second-block{
+  .second-text-second-block {
     width: 100%;
   }
-  .second-block-extension{
+  .second-block-extension {
     height: auto;
     margin-right: 0;
     margin-left: 0;
     width: 100%;
   }
-  .second-block-extension-2{
+  .second-block-extension-2 {
     height: auto;
     margin-right: 0;
     margin-left: 0;
     width: 100%;
   }
-  .second-block-extension-border{
+  .second-block-extension-border {
     height: auto;
     margin-right: 0;
     margin-left: 0;
     width: 100%;
   }
-  .second-block-extension-border-2{
+  .second-block-extension-border-2 {
     margin-right: 0;
     margin-left: 0;
     height: auto;
@@ -92,39 +92,38 @@
   .first-block-container {
     width: 100%;
   }
-  .third-block-container{
+  .third-block-container {
     width: 100%;
     font-size: 14px;
   }
-  .thrid-section-block-1{
+  .thrid-section-block-1 {
     width: 100%;
   }
-  .thrid-section-block-2{
+  .thrid-section-block-2 {
     display: flex;
     justify-content: center;
-    
   }
 }
 @media (max-width: 425px) {
-  .header{
+  .header {
     justify-content: center;
   }
-  .firstSection{
+  .firstSection {
     flex-direction: column;
     width: 95%;
   }
-  .blockOne{
+  .blockOne {
     width: 100%;
     padding-bottom: 25px;
     text-align: center;
   }
-  .blockTwo{
+  .blockTwo {
     width: 100%;
   }
-  .floating-spans{
+  .floating-spans {
     width: 80%;
   }
-  .thrid-section{
+  .thrid-section {
     flex-direction: column;
   }
   .thrid-section-block-1 {
@@ -133,82 +132,82 @@
   .p-title-thrid-section-block-1 {
     width: 80%;
   }
-  .thrid-section-block-2{
+  .thrid-section-block-2 {
     display: flex;
     justify-content: center;
   }
-  .inside-block-from-thrid-section-block-2{
+  .inside-block-from-thrid-section-block-2 {
     height: auto;
     padding-bottom: 25px;
   }
-  .text-inside-cta{
+  .text-inside-cta {
     font-size: 15px;
   }
   .first-block-container {
     width: 325px;
   }
-  .third-block-container{
+  .third-block-container {
     width: 100%;
     font-size: 14px;
   }
-  .main-second-container{
+  .main-second-container {
     width: 100%;
   }
-  .second-block-container{
+  .second-block-container {
     margin-left: 0;
     margin: 0 auto;
     padding: 15px;
     width: 325px;
   }
-  .second-text-second-block{
+  .second-text-second-block {
     width: 100%;
   }
-  .second-block-extension{
+  .second-block-extension {
     height: auto;
     margin-right: 0;
     margin-left: 0;
     width: 100%;
   }
-  .second-block-extension-2{
+  .second-block-extension-2 {
     height: auto;
     margin-right: 0;
     margin-left: 0;
     width: 100%;
   }
-  .second-block-extension-border{
+  .second-block-extension-border {
     height: auto;
     margin-right: 0;
     margin-left: 0;
     width: 100%;
   }
-  .second-block-extension-border-2{
+  .second-block-extension-border-2 {
     margin-right: 0;
     margin-left: 0;
     height: auto;
     width: 100%;
   }
-  .floating-spans{
+  .floating-spans {
     width: 355px;
     margin: 0;
     margin-top: 15px;
     margin-left: 10px;
   }
-  .callToActionBlock{
+  .callToActionBlock {
     font-size: 14px;
   }
 }
 @media (max-width: 375px) {
-  .first-block-container{
+  .first-block-container {
     width: 230px;
-  padding-left: 10px;
+    padding-left: 10px;
   }
-  .text-inside-padlock-2 span{
+  .text-inside-padlock-2 span {
     font-size: 18px;
   }
-  .callToActionBlock{
+  .callToActionBlock {
     font-size: 12px;
   }
-  .floating-spans{
+  .floating-spans {
     width: 305px;
     margin: 0;
     margin-top: 15px;
